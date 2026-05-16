@@ -1210,25 +1210,24 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/Hunterdii'}"
-                     alt="Het Patel"
+                     alt="sanket bodake"
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Hunterdii';">
-                <h2 class="profile-name">Het Patel (Hunterdii)</h2>
-                <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
+                     onerror="this.onerror=null; this.src='https://github.com/sanketbodakhe68/smart-ai-resume-analyzer';">
+                <h2 class="profile-name">sanket bodakhe </h2>
+                <p class="profile-title">Data Scitenctis & AIMl</p>
                 <div class="social-links">
-                    <a href="https://github.com/Hunterdii" class="social-link" target="_blank">
+                    <a href="https://github.com/sanketbodakhe68" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" class="social-link" target="_blank">
+                    <a href="https://github.com/sanketbodakhe68/smart-ai-resume-analyzer" class="social-link" target="_blank">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                    <a href="mailto:hunterdii9879@gmail.com" class="social-link" target="_blank">
+                    <a href="mailto: sanketbodaakhe68@gamil.com" class="social-link" target="_blank">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
                 <p class="bio-text">
-                    Hello! I'm a passionate Full Stack Developer with expertise in AI and Machine Learning.
+                    Hello! I'm a data scientist with expertise in AI and Machine Learning.
                     I created Smart Resume AI to revolutionize how job seekers approach their career journey.
                     With my background in both software development and AI, I've designed this platform to
                     provide intelligent, data-driven insights for resume optimization.
