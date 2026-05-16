@@ -1,0 +1,6 @@
+- [ ] Add new Login page renderer in app.py
+- [ ] Add "🔐 LOGIN" to self.pages navigation
+- [ ] Implement login UI (email/password) using verify_admin + log_admin_action
+- [ ] Redirect to dashboard after successful login
+- [x] Ensure logout works from sidebar and login page handles already-logged-in state
+- [ ] Manual test: login, wrong creds, logout, navigation
